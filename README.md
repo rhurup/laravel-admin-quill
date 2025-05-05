@@ -1,5 +1,8 @@
-# Quill Editor extension for laravel-admin
+# Forked from jxlwqq/quill
 
+--------------
+
+# Quill Editor extension for laravel-admin
 
 This is a `laravel-admin` extension that integrates [Quill](https://github.com/quilljs/quill) into the `laravel-admin` form.
 ## Screenshot
@@ -9,7 +12,7 @@ This is a `laravel-admin` extension that integrates [Quill](https://github.com/q
 ## Installation
 
 ```bash
-composer require jxlwqq/quill
+composer require rhurup/laravel-admin-quill
 
 php artisan vendor:publish --tag=laravel-admin-quill
 ```

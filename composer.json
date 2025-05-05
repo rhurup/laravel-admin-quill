@@ -1,14 +1,14 @@
 {
-    "name": "jxlwqq/quill",
+    "name": "rhurup/laravel-admin-quill",
     "description": "quill editor for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/quill",
+    "homepage": "https://github.com/rhurup/laravel-admin-quill",
     "license": "MIT",
     "authors": [
         {
-            "name": "jxlwqq",
-            "email": "jxlwqq@gmail.com"
+            "name": "Rasmus Hurup Hansen",
+            "email": "rasmus@huruphansen.dk"
         }
     ],
     "require": {
